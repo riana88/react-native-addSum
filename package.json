@@ -1,0 +1,22 @@
+{
+  "name": "@riana88/react-native-addsum",
+  "version": "1.0.0",
+  "description": "test addsum",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riana88/react-native-addSum.git"
+  },
+  "keywords": [
+    "addsum"
+  ],
+  "author": "rai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riana88/react-native-addSum/issues"
+  },
+  "homepage": "https://github.com/riana88/react-native-addSum#readme"
+}
